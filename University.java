@@ -22,11 +22,12 @@ System.out.println("Course: " + course);
 public class University{
 public static void main(String[] args) {
 CollegeStudent cs = new CollegeStudent();
-cs.name = "Deepa";
-cs.rollNo = 12;
+cs.name = "Karmukilan";
+cs.rollNo = 22;
 cs.course = "CSE";
 cs.displayName();
 cs.displayRoll();
 cs.displayCourse();
 }
+
 }
